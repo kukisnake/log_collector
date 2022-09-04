@@ -19,6 +19,8 @@ public class LogDto {
     private LogLevel logLevel;
     private String invokingClass;
 
+
+
     public LogDto() {
 
     }
